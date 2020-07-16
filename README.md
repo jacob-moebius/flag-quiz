@@ -1,5 +1,5 @@
 # flag-quiz
-An Android app that quizzes a user on correlating countries and their flags. The app demonstrates an implementation of a settings fragment to change the number of choices per question in a quiz.
+An Android app that quizzes a user on correlating countries and their flags stored in a JSON file and assets/ directory. The app demonstrates an implementation of a settings fragment to change the number of choices per question in a quiz.
 
 ## Setup
 To see this project in action:
